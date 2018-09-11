@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JungleOverloading2", "JungleOverloading2\JungleOverloading2.csproj", "{E665B352-452C-4196-8B0A-1EB3C8F0618F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E665B352-452C-4196-8B0A-1EB3C8F0618F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E665B352-452C-4196-8B0A-1EB3C8F0618F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E665B352-452C-4196-8B0A-1EB3C8F0618F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E665B352-452C-4196-8B0A-1EB3C8F0618F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D238E04-D0F0-484D-B46F-7F00A7699A00}
+	EndGlobalSection
+EndGlobal
