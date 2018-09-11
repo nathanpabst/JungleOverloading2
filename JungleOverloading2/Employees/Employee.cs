@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+
 
 namespace JungleOverloading2.Employees
 {
@@ -37,7 +39,7 @@ namespace JungleOverloading2.Employees
             var palList = new List<string>();
             foreach (var pal in palList)
             {
-                palList.Add(pal.FirstName);
+                //palList.Add(pal.FirstName);
             }
             var palString = string.Join(",", palList);
 
